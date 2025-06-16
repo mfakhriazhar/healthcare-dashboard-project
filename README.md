@@ -62,3 +62,9 @@ This dashboard provides a high-level overview of healthcare metrics, supporting 
 ## 📷 Dashboard Preview
 ![image](https://github.com/user-attachments/assets/fbb19b67-3e98-415f-9f29-4ce6a033a066)
 
+If you have any suggestions or feedback, please don't hesitate to contact me in direct message on LinkedIn and Email: mfkriazh57@gmail.com and http://www.linkedin.com/in/muhammad-fakhri-azhar  
+
+#PowerBI #DataCleaning #DataVisualization #HealthcareAnalytics  
+#DashboardDesign #ExcelForDataCleaning #DataAnalysisProject  
+#HealthDataInsights #BusinessIntelligence #DataPortfolio  
+#PatientAnalytics #InteractiveDashboard #EDA #PowerBIDashboard  
